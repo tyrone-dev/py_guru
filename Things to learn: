@@ -6,6 +6,17 @@ Things to learn:
 4. decorators
 5. generators
 6. itertools** and functools
-7. map, reduce, filter, iter, range, xrange
+7. map, reduce, filter, 
+7.5. iter, range, xrange
 8. urllib
 9. string library
+10. enumerate
+11. unit testing
+12. databases
+13. *args and **kwargs
+14. High Level Functions (Functions calling functions)
+15. Recursion
+16. Exceptions
+17. Advanced Topics on Tutorials Point
+
+Negative index: a[-x] = a[len(a)-x] !!! USEFUL
