@@ -1,22 +1,24 @@
 Things to learn:
 
-1. regex
-2. list comprehension
-3. lambda functions
-4. decorators
-5. generators
+1. regex (done)
+2. list comprehension (done)
+3. lambda functions (done)
+4. decorators (done)
+5. generators (done)
 6. itertools** and functools
-7. map, reduce, filter, 
+7. map, reduce, filter (done) 
 7.5. iter, range, xrange
 8. urllib
 9. string library
 10. enumerate
 11. unit testing
 12. databases
-13. *args and **kwargs
-14. High Level Functions (Functions calling functions)
-15. Recursion
-16. Exceptions
+13. *args and **kwargs (done)
+14. High Level Functions (Functions calling functions) (done)
+15. Recursion (done)
+16. Exceptions (done)
 17. Advanced Topics on Tutorials Point
+18. r'' - raw strings (done)
+19. str() vs repr() (done)
 
 Negative index: a[-x] = a[len(a)-x] !!! USEFUL
